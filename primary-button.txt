@@ -1,0 +1,6 @@
+<div class="button-group button-group--responsive">
+  <a class="button button--primary" href="#" role="button">Link</a>
+  <button class="button button--primary">Button</button>
+  <input class="button button--primary" type="button" value="Input">
+  <input class="button button--primary" type="submit" value="Submit">
+</div>
